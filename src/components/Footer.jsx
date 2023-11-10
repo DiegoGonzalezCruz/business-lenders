@@ -16,6 +16,7 @@ const Footer = () => {
               width={20}
               height={20}
               className="h-full"
+              alt="phone icon"
             />
             <p>1-860-244-9202</p>
           </div>
@@ -25,6 +26,7 @@ const Footer = () => {
               width={20}
               height={20}
               className="h-full"
+              alt="mail icon"
             />
 
             <p>

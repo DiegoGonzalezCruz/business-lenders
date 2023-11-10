@@ -11,6 +11,7 @@ const FarewellContent = () => {
             width={1920}
             height={1080}
             className="w-32 h-32"
+            alt="Business Lenders logo"
           />
         </div>
         <div className="">
@@ -31,6 +32,7 @@ const FarewellContent = () => {
             width={1080}
             height={1080}
             className="w-1/3 h-fit"
+            alt="Penn Ritter headshot"
           />
           <div className="flex flex-col gap-5">
             <p>
@@ -56,6 +58,7 @@ const FarewellContent = () => {
             width={1080}
             height={1080}
             className="w-fit h-fit"
+            alt="Penn Ritter signature"
           />
           <p>
             Penn Ritter <br /> Founder and Chairman

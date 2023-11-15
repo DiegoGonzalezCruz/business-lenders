@@ -3,7 +3,7 @@ import Image from "next/image";
 const Footer = () => {
   return (
     <footer className="bg-green w-full">
-      <div className="md:w-1/2 w-5/6  mx-auto py-10 flex md:flex-row flex-col gap-10 text-black text-small font-medium">
+      <div className="lg:w-1/2 w-5/6  mx-auto py-10 flex md:flex-row flex-col gap-10 text-black text-small font-medium">
         <div className="flex flex-col gap-4 w-2/3  ">
           <p>P.O. Box 370127 | West Hartford, CT 06137-0127 </p>
           <p>Copyright © 2023 Business Lenders, LLC </p>

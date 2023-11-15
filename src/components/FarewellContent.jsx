@@ -4,8 +4,8 @@ import React from "react";
 const FarewellContent = () => {
   return (
     <main className="flex flex-col w-full   py-10 ">
-      <div className="md:w-1/2 w-5/6 mx-auto flex flex-col gap-10">
-        <div className="w-full flex flex-col items-center  py-10">
+      <div className="lg:w-1/2 w-5/6 mx-auto flex flex-col gap-10">
+        <div className="w-full flex flex-col items-center  py-10 ">
           <Image
             src={"/business-lenders-logo-280x280.png"}
             width={1920}
@@ -26,7 +26,7 @@ const FarewellContent = () => {
             challenging times.
           </p>
         </div>
-        <div className="flex flex-row gap-10 ">
+        <div className="flex md:flex-row flex-col gap-10  ">
           <Image
             src={"/penn_headshot.png"}
             width={1080}

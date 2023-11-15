@@ -10,7 +10,7 @@ const FarewellContent = () => {
             src={"/business-lenders-logo-280x280.png"}
             width={1920}
             height={1080}
-            className="w-48 h-48"
+            className="w-64 h-64"
             alt="Business Lenders logo"
           />
         </div>

@@ -7,10 +7,10 @@ const FarewellContent = () => {
       <div className="md:w-1/2 w-5/6 mx-auto flex flex-col gap-10">
         <div className="w-full flex flex-col items-center  py-10">
           <Image
-            src={"/mainlogo.png"}
+            src={"/business-lenders-logo-280x280.png"}
             width={1920}
             height={1080}
-            className="w-32 h-32"
+            className="w-48 h-48"
             alt="Business Lenders logo"
           />
         </div>
